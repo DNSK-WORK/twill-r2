@@ -40,3 +40,7 @@ Then set `FILE_LIBRARY_PUBLIC_URL` in your `.env` to the public base URL of your
 ## License
 
 MIT
+
+---
+
+Made by [DNSK](https://dnsk.work), a [UI/UX agency](https://dnsk.work).
