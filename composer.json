@@ -3,6 +3,7 @@
     "description": "Twill fixes for Cloudflare R2 and S3-compatible object storage (URL generation, policy signing, safe deletion)",
     "type": "library",
     "license": "MIT",
+    "keywords": ["laravel", "twill", "cloudflare-r2", "s3", "media-library", "file-library", "storage", "fine-uploader"],
     "require": {
         "php": "^8.1",
         "area17/twill": "^3.0"
