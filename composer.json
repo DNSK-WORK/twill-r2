@@ -1,5 +1,5 @@
 {
-    "name": "dnsk/twill-r2",
+    "name": "dnsk-work/twill-r2",
     "description": "Twill fixes for Cloudflare R2 and S3-compatible object storage (URL generation, policy signing, safe deletion)",
     "type": "library",
     "license": "MIT",
@@ -9,13 +9,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Dnsk\\TwillR2\\": "src/"
+            "DnskWork\\TwillR2\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Dnsk\\TwillR2\\TwillR2ServiceProvider"
+                "DnskWork\\TwillR2\\TwillR2ServiceProvider"
             ]
         }
     },

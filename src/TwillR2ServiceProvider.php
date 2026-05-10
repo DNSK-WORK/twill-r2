@@ -1,14 +1,14 @@
 <?php
 
-namespace Dnsk\TwillR2;
+namespace DnskWork\TwillR2;
 
 use A17\Twill\Repositories\FileRepository as TwillFileRepository;
 use A17\Twill\Repositories\MediaRepository as TwillMediaRepository;
 use A17\Twill\Services\Uploader\SignS3Upload as TwillSignS3Upload;
-use Dnsk\TwillR2\Repositories\FileRepository;
-use Dnsk\TwillR2\Repositories\MediaRepository;
-use Dnsk\TwillR2\Services\FileService;
-use Dnsk\TwillR2\Services\SignS3Upload;
+use DnskWork\TwillR2\Repositories\FileRepository;
+use DnskWork\TwillR2\Repositories\MediaRepository;
+use DnskWork\TwillR2\Services\FileService;
+use DnskWork\TwillR2\Services\SignS3Upload;
 use Illuminate\Support\ServiceProvider;
 
 class TwillR2ServiceProvider extends ServiceProvider

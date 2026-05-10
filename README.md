@@ -19,7 +19,7 @@ Twill's `afterDelete()` calls `Storage::disk()->files()` to clean up empty paren
 ## Installation
 
 ```bash
-composer require dnsk/twill-r2
+composer require dnsk-work/twill-r2
 ```
 
 The service provider is auto-discovered. No other steps are needed for fixes 2 and 3.

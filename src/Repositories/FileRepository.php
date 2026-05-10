@@ -1,6 +1,6 @@
 <?php
 
-namespace Dnsk\TwillR2\Repositories;
+namespace DnskWork\TwillR2\Repositories;
 
 use A17\Twill\Repositories\FileRepository as BaseFileRepository;
 use Illuminate\Support\Facades\Config;

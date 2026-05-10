@@ -1,6 +1,6 @@
 <?php
 
-namespace Dnsk\TwillR2\Services;
+namespace DnskWork\TwillR2\Services;
 
 use A17\Twill\Services\Uploader\SignUploadListener;
 use Illuminate\Config\Repository as Config;
